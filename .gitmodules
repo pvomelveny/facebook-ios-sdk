@@ -7,9 +7,6 @@
 [submodule "vendor/appledoc"]
   path = vendor/appledoc
   url = https://github.com/tomaz/appledoc.git
-[submodule "Bolts-IOS"]
-  path = Bolts-IOS
-  url = https://github.com/BoltsFramework/Bolts-iOS.git
 [submodule "vendor/ios-snapshot-test-case"]
   path = vendor/ios-snapshot-test-case
   url = https://github.com/facebook/ios-snapshot-test-case.git
