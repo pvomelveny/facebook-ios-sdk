@@ -2787,6 +2787,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81A4A6031D19BE0400D5BF66 /* FBSDKCoreKit.xcconfig */;
 			buildSettings = {
+				"LD_RUNPATH_SEARCH_PATHS[sdk=iphoneos*]" = "@executable_path/Carthage/Build/iOS";
 			};
 			name = Debug;
 		};
@@ -2794,6 +2795,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81A4A6031D19BE0400D5BF66 /* FBSDKCoreKit.xcconfig */;
 			buildSettings = {
+				"LD_RUNPATH_SEARCH_PATHS[sdk=iphoneos*]" = " @executable_path/Carthage/Build/iOS";
 			};
 			name = Release;
 		};
